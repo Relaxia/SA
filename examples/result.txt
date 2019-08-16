@@ -1,0 +1,5 @@
+x transcript": straße lautet aarbergerstraße }x
+x transcript": ort lautet testort }x
+x transcript": einkommen lautet testeinkommen }x
+x transcript": kaufpreis lautet testkaufpreis }x
+x transcript": eigenkapital lautet testkapital }x
